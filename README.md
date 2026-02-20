@@ -1,5 +1,20 @@
 # Python Programming Immersive
 
+## Using VSCode
+
+If you don't already have VS Code you may install it via their download link:
+https://code.visualstudio.com/download
+
+VS Code is a program for editing code with a suite of tools designed to make development easier and faster.
+
+Once you have VS Code downloaded, you may either clone or download this repository by clicking the green `<> Code` button. For those unfamiliar with GitHub you may click the `Download ZIP` button.
+
+Once you have this repository on your computer, open it with VS Code.
+
+## Using the Terminal
+
+We will utilize the terminal for this class. To open the terminal in VS Code look for the `Terminal` tab (generally after `File`, `Edit`, etc.). Select `New Terminal`. This will open a terminal window with a command prompt.
+
 ## Using Python
 
 Check that you have Python installed:
