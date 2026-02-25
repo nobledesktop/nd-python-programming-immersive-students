@@ -8,7 +8,7 @@ A `Human` instance has a `full_name()` method which returns their `first_name` a
 
 A `Human` instance has an `order_drinks()` method which either returns `"Party time!"` if their age is 21 or older and returns `"Denied"` if their age is 20 or younger.
 
-A `Human` instance has an `eat()` method which sets their attribute `is_hungry` equal to `True`.
+A `Human` instance has an `eat()` method which sets their attribute `is_hungry` equal to `False`.
 
 A `Human` instance has a `win_lottery()` method which sets their attribute `address` equal to `"Disneyworld"`.
 
