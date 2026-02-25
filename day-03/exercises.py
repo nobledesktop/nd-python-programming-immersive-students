@@ -1,6 +1,6 @@
 """###EXERCISE: Human Class
 
-Create a new class `Human` which has required attributes `first_name:str`, `last_name:str`, `age:int`, and `is_hungry:bool`.
+Create a new class `Human` which has required attributes `first_name:str`, `last_name:str`, `address:str`, `age:int`, and `is_hungry:bool`.
 
 A `Human` instance has a `__repr__` that shows their attributes.
 
@@ -10,9 +10,11 @@ A `Human` instance has an `order_drinks()` method which either returns `"Party t
 
 A `Human` instance has an `eat()` method which sets their attribute `is_hungry` equal to `False`.
 
+A `Human` instance has a `workout()` method which sets their attributes `is_hungery` equal to `True`.
+
 A `Human` instance has a `win_lottery()` method which sets their attribute `address` equal to `"Disneyworld"`.
 
-A `Human` instance has a `change_first_name()` method which creates an input with the prompt `"Change Name >>>"`. When a user completes the input the `name` attribute changes to their input.
+A `Human` instance has a `change_first_name()` method which creates an input with the prompt `"Change Name >>> "`. When a user completes the input the `first_name` attribute changes to their input.
 
 ---
 """
